@@ -18,12 +18,14 @@ source venv/bin/activate
 # 6. Jalankan script
 python vcenter_export_fixed.py
 
-Tunggu proses GetData nya Selesai
+# 7. Tunggu proses GetData nya Selesai
+
 <img width="751" height="705" alt="image" src="https://github.com/user-attachments/assets/aa41c642-0e78-4e49-94de-c3076e9b20a9" />
 
-Sudah Selesai GetData nya
+# 8. Sudah Selesai GetData nya
+
 <img width="667" height="318" alt="image" src="https://github.com/user-attachments/assets/85fb3a83-1585-4a77-9558-7a6dff4628f6" />
 
-#7. Akan Muncul Hasil Get Data nya Format CSV
+#9. Akan Muncul Hasil Get Data nya Format CSV
 
 <img width="1087" height="592" alt="GetDataSample" src="https://github.com/user-attachments/assets/412c4e84-acb4-44ff-b876-3eba3bec88d9" />
